@@ -1,0 +1,70 @@
+{
+    "product": [
+        {
+            "id":1,
+            "name":"Banana",
+            "description":"Organic",
+            "price":1
+          
+        },
+        {
+            "id":2,
+            "name":"Oranges",
+            "description":"Organic",
+            "price":2
+
+        },
+        {
+            "id":3,
+            "name":"Kiwi",
+            "description":"Organic",
+            "price":3
+        },
+        {
+            "id":4,
+            "name":"Stawberry",
+            "description":"Organic",
+            "price":4
+            
+        },
+        {
+            "id":5,
+            "name":"Mango",
+            "description":"Organic",
+            "price":5
+            
+        }, 
+       
+        {
+            "id":6,
+            "name":"Green Pepper",
+            "description":"Organic",
+            "price":6
+            
+        } ,
+             
+        {
+            "id":7,
+            "name":"Cauliflower",
+            "description":"Organic",
+            "price":7
+            
+        } ,
+        {
+            "id":8,
+            "name":"Onions",
+            "description":"Organic",
+            "price":8
+            
+        } 
+       
+       
+         
+            
+        
+    ],
+    "category":[
+        {"id":1, "categoryName":"Fruits"},
+        {"id":2, "categoryName":"Vegetables"}
+    ]
+}
